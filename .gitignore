@@ -1,0 +1,15 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+mlruns/
+logs/
+*.db
+
+.env
+
+.ipynb_checkpoints/
+
+data/raw/

@@ -1,0 +1,47 @@
+feature,importance
+count_change,0.32833389156599463
+airborne_count,0.10699477952516247
+live_flights,0.09435730761149791
+prev_live_flights,0.07339285956795923
+on_ground_ratio,0.07064057510751955
+avg_altitude,0.0675928648646815
+avg_velocity,0.06298602708383708
+airborne_ratio,0.06065027775170383
+on_ground_count,0.05875920711361074
+mapped_airline_Air India,0.00856242813097335
+route_flights,0.00712464507501922
+mapped_airline_Delta Air Lines,0.0060687528636175145
+mapped_airline_Air France,0.0060274399287606455
+mapped_airline_IndiGo,0.004417601168580218
+mapped_airline_American Airlines,0.0031491605064064834
+mapped_airline_Japan Airlines,0.002665750232045499
+mapped_airline_Cathay Pacific,0.0025978372453345764
+mapped_airline_Turkish Airlines,0.0025208226119264212
+mapped_airline_Singapore Airlines,0.0023792215732021224
+mapped_airline_KLM,0.0022223733857758814
+departure_iata_LHR,0.0020638336295885195
+mapped_airline_United Airlines,0.0019975021856283204
+mapped_airline_Qantas,0.0018990682329123475
+mapped_airline_British Airways,0.001649548122023345
+mapped_airline_Lufthansa,0.001648214641137124
+departure_iata_AMS,0.0015330245135349925
+departure_iata_FRA,0.0013795604360876952
+departure_iata_LAX,0.0013383199960782992
+departure_iata_SYD,0.0011795276035286122
+mapped_airline_Emirates,0.0011537252451964592
+departure_iata_SIN,0.0011449995042487767
+departure_iata_DEL,0.0011113657581746429
+mapped_airline_Etihad Airways,0.0011041530909171528
+departure_iata_BOM,0.0010305123948515546
+departure_iata_JFK,0.000920027415537013
+departure_iata_BKK,0.0008593013686053819
+mapped_airline_Thai Airways,0.0008307672579483061
+has_aviationstack_context,0.0008292357342127672
+departure_iata_HKG,0.0008273028898460327
+departure_iata_CDG,0.000826765608961707
+mapped_airline_Qatar Airways,0.0007484379233539326
+mapped_airline_ANA,0.0006881360709421873
+departure_iata_ORD,0.0006774323067688056
+departure_iata_DXB,0.00044553862925239725
+departure_iata_AUH,0.00037865604748893076
+mapped_airline_SpiceJet,0.0002912204795661835

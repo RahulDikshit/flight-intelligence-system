@@ -1,0 +1,83 @@
+Flight Operations Knowledge Base
+
+========================================
+
+Feature Importance (Top 15):
+- count_change: importance=0.328334
+- airborne_count: importance=0.106995
+- live_flights: importance=0.094357
+- prev_live_flights: importance=0.073393
+- on_ground_ratio: importance=0.070641
+- avg_altitude: importance=0.067593
+- avg_velocity: importance=0.062986
+- airborne_ratio: importance=0.060650
+- on_ground_count: importance=0.058759
+- mapped_airline_Air India: importance=0.008562
+- route_flights: importance=0.007125
+- mapped_airline_Delta Air Lines: importance=0.006069
+- mapped_airline_Air France: importance=0.006027
+- mapped_airline_IndiGo: importance=0.004418
+- mapped_airline_American Airlines: importance=0.003149
+
+
+ML Feature Table Summary:
+- Total rows: 440
+- Total columns: 15
+- Target distribution: {0: 327, 1: 113}
+- Top airlines by row count:
+  - ANA: 22
+  - Air France: 22
+  - Turkish Airlines: 22
+  - Thai Airways: 22
+  - SpiceJet: 22
+  - Singapore Airlines: 22
+  - Qatar Airways: 22
+  - Qantas: 22
+  - Lufthansa: 22
+  - KLM: 22
+
+
+Fused Intelligence Summary:
+- Total fused rows: 126
+- Top airlines in fused intelligence:
+  - British Airways: 9
+  - IndiGo: 9
+  - Japan Airlines: 8
+  - Qantas: 8
+  - Air France: 8
+  - Emirates: 8
+  - Etihad Airways: 7
+  - Singapore Airlines: 7
+  - United Airlines: 7
+  - American Airlines: 7
+- Highest route_flights rows:
+  - IndiGo from DEL: route_flights=35.0
+  - KLM from AMS: route_flights=27.0
+  - Lufthansa from FRA: route_flights=26.0
+  - ANA from ORD: route_flights=19.0
+  - Air India from DEL: route_flights=18.0
+  - KLM from CDG: route_flights=18.0
+  - Delta Air Lines from AMS: route_flights=17.0
+  - Delta Air Lines from CDG: route_flights=16.0
+  - Cathay Pacific from HKG: route_flights=15.0
+  - Emirates from DXB: route_flights=14.0
+
+
+Scored Anomaly Summary:
+- Total scored rows: 440
+- Highest predicted anomaly probabilities:
+  - United Airlines: predicted_probability=0.9520, live_flights=495
+  - United Airlines: predicted_probability=0.9408, live_flights=499
+  - Delta Air Lines: predicted_probability=0.9314, live_flights=504
+  - United Airlines: predicted_probability=0.9302, live_flights=508
+  - American Airlines: predicted_probability=0.9226, live_flights=557
+  - United Airlines: predicted_probability=0.9202, live_flights=496
+  - United Airlines: predicted_probability=0.9190, live_flights=482
+  - Delta Air Lines: predicted_probability=0.9190, live_flights=466
+  - United Airlines: predicted_probability=0.9164, live_flights=490
+  - United Airlines: predicted_probability=0.9033, live_flights=493
+  - United Airlines: predicted_probability=0.9016, live_flights=474
+  - American Airlines: predicted_probability=0.8950, live_flights=559
+  - United Airlines: predicted_probability=0.8928, live_flights=474
+  - United Airlines: predicted_probability=0.8894, live_flights=494
+  - Delta Air Lines: predicted_probability=0.8891, live_flights=454
